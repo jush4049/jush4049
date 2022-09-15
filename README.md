@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 문화재 홍보 콘텐츠 “메타버스 미륵사지 타임머신” | 2021.09.24 ~ 2021.12.10 | https://github.com/jush4049/Unity3D_Metaverse_Mireuksaji_Timemachine
+### 문화재 홍보 콘텐츠 “메타버스 미륵사지 타임머신” | 2021.09.24 ~ 2021.12.10
+https://github.com/jush4049/Unity3D_Metaverse_Mireuksaji_Timemachine
 
 - 개발 환경 : Unity 3.20f / 개발 인원 : 5명(개발2, 디자인2, 기획1)
 
@@ -41,7 +42,8 @@ DHT22 센서를 활용한 코드를 작성하여 온도 및 습도 값 측정
 
 
 
-### 모바일 FPS 게임 “동물 탈출어택”  | 2022.04.04 ~ 2022.06.17 | https://github.com/jush4049/Animals-Escape-Attack-
+### 모바일 FPS 게임 “동물 탈출어택”  | 2022.04.04 ~ 2022.06.17
+https://github.com/jush4049/Animals-Escape-Attack-
 
 - 개발 환경 : Unity 3.30f / 개발 인원 : 1인 개발
 Unity를 활용한 모바일 FPS 게임, 인간의 실험에 의해 개조된 동물들이 인간과 맞서는 이야기
@@ -66,7 +68,8 @@ Unity를 활용한 모바일 FPS 게임, 인간의 실험에 의해 개조된 �
   
   
   
-### 공황장애 환자들을 위한 그라운딩 기술 치료게임 “RE:Mind” | 2022.06.18 ~ 2022.06.24 | https://github.com/jush4049/Digital_Remedy
+### 공황장애 환자들을 위한 그라운딩 기술 치료게임 “RE:Mind” | 2022.06.18 ~ 2022.06.24
+https://github.com/jush4049/Digital_Remedy
 
 - 개발 환경 : Unity 3.41f / 개발 인원 : 5명(개발4, 디자인1)
 
